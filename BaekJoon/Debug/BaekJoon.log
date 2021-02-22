@@ -1,4 +1,0 @@
-﻿  소스1.c
-C:\Users\gsi19\source\repos\BaekJoon\BaekJoon\소스1.c(35,15): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
-C:\Users\gsi19\source\repos\BaekJoon\BaekJoon\소스1.c(34,15): warning C4101: 'd' :참조되지 않은 지역 변수입니다.
-  BaekJoon.vcxproj -> C:\Users\gsi19\source\repos\BaekJoon\Debug\BaekJoon.exe
